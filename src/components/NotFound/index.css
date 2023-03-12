@@ -1,0 +1,17 @@
+.not-found-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-size: cover;
+}
+
+.not-found-img-prop {
+  height: 50vh;
+}
+
+.not-found-content {
+  width: 50vw;
+  text-align: center;
+  align-self: center;
+}
